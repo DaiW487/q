@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/daiwei/q/assets",
-      "program": "/home/daiwei/q/assets/build/Debug/outDebug",
+      "cwd": "/home/daiwei/q/.vscode",
+      "program": "/home/daiwei/q/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
